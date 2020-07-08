@@ -1,6 +1,6 @@
-# {My First Website}
-#### {Website listing items that I consider as my favourite.}, {8th July 2020}
-#### By **{Charles Riungu}**
+# My First Website
+#### Website listing items that I consider as my favourite things, 8th July 2020
+#### By **Charles Riungu**
 ## Description
 This website includes HTML elements to embolden, emphasize, links, images and page structure tags for paragraphs, 
 titles, headers and body.
